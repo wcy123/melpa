@@ -1,4 +1,2 @@
-(cg
- :fetcher svn
- :url "https://beta.visl.sdu.dk/svn/visl/tools/vislcg3/trunk/emacs"
- :files ("cg.el"))
+;; MAYBE currently stale on mirror, but could switch to minority type
+(cg :fetcher svn :repo "emacsmirror/cg")

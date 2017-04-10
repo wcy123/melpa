@@ -1,3 +1,4 @@
+;; PENDING waiting for upstream to rely
 (color-theme :url "https://bzr.savannah.gnu.org/r/color-theme/trunk"
              :fetcher bzr
              :files ("*.el" "themes"))
